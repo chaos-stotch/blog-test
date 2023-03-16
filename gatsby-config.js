@@ -21,5 +21,5 @@ module.exports = {
       options: {},
     },
   ],
-  pathPrefix: "/reponame",
+  pathPrefix: "/blog-test",
 }
